@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkbesked_com=self.webpackChunkbesked_com||[]).push([[691],{7200:function(e,n,t){t.r(n),t.d(n,{Head:function(){return c}});var u=t(7294);n.default=()=>null;const c=()=>u.createElement("title",null,"besked")}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-7679fb901106afb01863.js.map
