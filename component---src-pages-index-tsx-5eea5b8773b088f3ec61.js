@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkbesked_com=self.webpackChunkbesked_com||[]).push([[691],{7200:function(e,t,n){n.r(t),n.d(t,{Head:function(){return o}});var l=n(7294);const c={color:"#8954A8",fontWeight:"bold",fontSize:16,verticalAlign:"5%"};t.default=()=>null;const o=()=>l.createElement("title",null,"besked")}}]);
-//# sourceMappingURL=component---src-pages-index-tsx-5eea5b8773b088f3ec61.js.map
